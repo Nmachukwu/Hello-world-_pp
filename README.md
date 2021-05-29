@@ -1,3 +1,3 @@
-# Hello-world-_pp
-MY NAME is stella
-i love to write
+# maven-project
+
+Simple Maven Project
